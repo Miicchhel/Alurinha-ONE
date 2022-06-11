@@ -13,12 +13,20 @@
 .conteudoPrincipal-cursos{
     display: flex;
     flex-flow: row wrap;
-    justify-content: flex-start;
+    /* justify-content: flex-start; */
 }
 
 .conteudoPrincipal-cursos-link{
     width: 23%;
-    margin-bottom: 1%;
+    margin: 1%;
+}
+
+.conteudoPrincipal-cursos-link:nth-child(4n){
+    margin-right: 0;
+}
+
+.conteudoPrincipal-cursos-link:nth-child(4n+1){
+    margin-left: 0;
 }
 
 /* MAPA DE CURSOS */
