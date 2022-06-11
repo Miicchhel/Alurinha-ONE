@@ -9,6 +9,18 @@
     display:flex;
 }
 
+/* NOSSOS CURSOS */
+.conteudoPrincipal-cursos{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+}
+
+.conteudoPrincipal-cursos-link{
+    width: 23%;
+    margin-bottom: 1%;
+}
+
 /* MAPA DE CURSOS */
 .rodapePrincipal-navMap-list{
     display: flex;
