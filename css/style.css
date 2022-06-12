@@ -208,7 +208,7 @@ body {
 .rodapePrincipal-contatoForm-legend {
 	margin-bottom: 10px;
 }
-/* 
+
 @media(min-width: 769px) {
 
 	.container {
@@ -247,15 +247,15 @@ body {
 		text-align: left;
 	}
 
-	.conteudoPrincipal-cursos-link:nth-child(3n) {
+	/* .conteudoPrincipal-cursos-link:nth-child(3n) {
 		margin-right: 0;
 	}
 
 	.conteudoPrincipal-cursos-link:nth-child(3n+1) {
 		margin-left: 0;
-	}
+	} */
 
-} */
+}
 
 /* @media(min-width: 1000px) {
 	.conteudoPrincipal-cursos-link {
@@ -283,5 +283,3 @@ body {
 	}
 
 } */
-
-
